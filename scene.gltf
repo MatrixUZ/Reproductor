@@ -1,0 +1,250 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 966,
+      "max": [
+        1.784566879272461,
+        0.14871203899383545,
+        1.3192369937896729
+      ],
+      "min": [
+        1.1483629941940308,
+        0.0,
+        0.682682991027832
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 11592,
+      "componentType": 5126,
+      "count": 966,
+      "max": [
+        0.45929425954818726,
+        1.0,
+        0.8993127346038818
+      ],
+      "min": [
+        -0.9999964237213135,
+        -0.9999998807907104,
+        -0.900419294834137
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1068,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 23184,
+      "componentType": 5126,
+      "count": 150,
+      "max": [
+        2.7286648750305176,
+        0.44667506217956543,
+        2.0
+      ],
+      "min": [
+        0.0,
+        0.05110400915145874,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 24984,
+      "componentType": 5126,
+      "count": 150,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9994792342185974,
+        -0.9999964237213135
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4272,
+      "componentType": 5125,
+      "count": 222,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Decoder_pr0 (https://sketchfab.com/Decoder_pr0)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/diamond-play-button-aa3db390446d42b9aa37ecb79700f611",
+      "title": "Diamond Play Button"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 5160,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 26784,
+      "byteOffset": 5160,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 31944,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "button",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.64,
+          0.64,
+          0.64,
+          0.7183333425810844
+        ],
+        "metallicFactor": 0.911969687721946,
+        "roughnessFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "plaque",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.64,
+          0.64,
+          0.64,
+          1.0
+        ],
+        "roughnessFactor": 0.17893940318714485
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.20867355167865753,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        4.6334836340790615e-17,
+        -0.20867355167865753,
+        0.0,
+        0.0,
+        0.20867355167865753,
+        4.6334836340790615e-17,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -1.2714979648590088,
+        0.553534984588623,
+        -0.03474299982190132,
+        1.0
+      ],
+      "name": "diamond play button.obj.cleaner.gles"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "Object_2"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_4"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

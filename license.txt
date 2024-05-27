@@ -1,0 +1,11 @@
+Model Information:
+* title:	Diamond Play Button
+* source:	https://sketchfab.com/3d-models/diamond-play-button-aa3db390446d42b9aa37ecb79700f611
+* author:	Decoder_pr0 (https://sketchfab.com/Decoder_pr0)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Diamond Play Button" (https://sketchfab.com/3d-models/diamond-play-button-aa3db390446d42b9aa37ecb79700f611) by Decoder_pr0 (https://sketchfab.com/Decoder_pr0) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
